@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephpaterson and I'm a student with CodeClan studying their Professional Software Development course.
-- 🌱 So far I've learnt about OOP with Python, Flask, SQL and postgres, HTML and CSS
-- 🌱 I’m currently learning JavaScript & React
+- 👩🏻‍💻 So far I've learnt about OOP with Python, Flask, SQL and postgres, HTML and CSS
+- 🌱 I’m currently learning about JavaScript, React and APIs
 
 <!---
 stephpaterson/stephpaterson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
