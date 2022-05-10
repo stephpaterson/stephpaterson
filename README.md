@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @stephpaterson and I'm a student with CodeClan studying their Professional Software Development course.
-- 👩🏻‍💻 During the first module I've learnt about OOP with Python, Flask, SQL and postgres, HTML and CSS
-- 👩🏻‍💻👨🏾‍💻 The second module has all been about JavaScript, React, MongoDb, Express and APIs and working as a team.
-- 🌱 I’m currently learning about Java
+- 👋 Hi, I’m @stephpaterson and I'm a Software Engineer at FanDuel
+- 🌱 Most recently I've been learning about Java and Spring but I also have a soft spot for Python 🐍.
+- 👩🏻‍💻 I got into software engineering with CodeClan's coding bootcamp.
 
 <!---
 stephpaterson/stephpaterson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
